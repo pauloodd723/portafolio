@@ -34,15 +34,16 @@ export default function Home() {
             <a href="#education-jobs" className="hover:underline transform hover:translate-y-1 transition-all">
               My education and jobs
             </a>
+            {/* switch */}
+      <section className="absolute top-8 right-10 hover:underline transform hover:translate-y-1 transition-all mt-8">
+        <ThemeSwitch />
+      </section>
           </nav>
         </div>
       </header>
 
 
-      {/* switch */}
-      <section className="absolute top-8 right-10 hover:underline transform hover:translate-y-1 transition-all mt-8">
-        <ThemeSwitch />
-      </section>
+
 
 
 
