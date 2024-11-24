@@ -5,7 +5,7 @@ import React from "react";
 export default function Home() {
   return (
     <main className="min-h-screen bg-tea-300 dark:bg-pale-600 font-changa text-black dark:text-white font-[family-name:var(--font-Changa-Bold)]">
-      {/* nadvar */}
+      {/* Navbar */}
       <header className="bg-pale-400 dark:bg-pale-800 p-4">
         <div className="container mx-auto flex flex-wrap justify-between items-center">
           <div className="flex items-center w-full sm:w-auto">
@@ -21,7 +21,7 @@ export default function Home() {
               <img src="catpp.gif" alt="emoji" className="inline-block ml-2 w-12 h-12" />
             </div>
           </div>
-          <nav className="flex flex-wrap space-x-12 w-full sm:w-auto mt-4 sm:mt-0">
+          <nav className="flex flex-wrap space-x-6 w-full sm:w-auto mt-4 sm:mt-0 mr-16">
             <a href="#about" className="hover:underline transform hover:translate-y-1 transition-all">
               About me
             </a>
@@ -39,7 +39,7 @@ export default function Home() {
       </header>
 
 
-      {/* switch */}
+      {/* Theme Switch */}
       <section className="absolute top-8 right-10 hover:underline transform hover:translate-y-1 transition-all">
         <ThemeSwitch />
       </section>
