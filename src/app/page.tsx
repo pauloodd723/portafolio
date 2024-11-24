@@ -247,7 +247,7 @@ export default function Home() {
             {/* java */}
             <div className="text-center">
               <Image
-                src="https://w7.pngwing.com/pngs/578/816/png-transparent-java-class-file-java-platform-standard-edition-java-development-kit-java-runtime-environment-coffee-jar-text-class-orange.png"
+                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP_3UpxmlmvA0lWsutXx_1Pa2lrgXbiBtpKw&s"
                 alt="Java"
                 width={80}
                 height={80}
