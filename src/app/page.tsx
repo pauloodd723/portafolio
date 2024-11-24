@@ -247,7 +247,7 @@ export default function Home() {
             {/* java */}
             <div className="text-center">
               <Image
-                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP_3UpxmlmvA0lWsutXx_1Pa2lrgXbiBtpKw&s"
+                src="https://cdn-icons-png.flaticon.com/512/226/226777.png"
                 alt="Java"
                 width={80}
                 height={80}
