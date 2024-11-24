@@ -243,7 +243,7 @@ export default function Home() {
 
         <section id="stacks" className="mb-16">
           <h2 className="text-3xl font-bold text-center mb-8">My Stacks</h2>
-          <div className="flex flex-wrap justify-center gap-24 md:grid md:grid-cols-5 md:gap-24">
+          <div className="flex flex-wrap justify-center gap-24 md:grid md:grid-cols-4 md:gap-24">
             
 
             {/* python */}
