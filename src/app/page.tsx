@@ -48,6 +48,7 @@ export default function Home() {
 
 
 
+
       <main className="container mx-auto p-8">
         {/* About Me Section */}
         <h2 className="text-2xl text-center font-bold mb-2">🎄About Me🎄</h2>
