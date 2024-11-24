@@ -21,7 +21,7 @@ export default function Home() {
               <img src="catpp.gif" alt="emoji" className="inline-block ml-2 w-12 h-12" />
             </div>
           </div>
-          <nav className="flex flex-wrap space-x-12 w-full sm:w-auto mt-4 sm:mt-8">
+          <nav className="flex flex-wrap space-x-12 w-full sm:w-auto mt-4 sm:mt-0">
             <a href="#about" className="hover:underline transform hover:translate-y-1 transition-all">
               About me
             </a>
