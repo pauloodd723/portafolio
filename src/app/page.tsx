@@ -243,17 +243,8 @@ export default function Home() {
 
         <section id="stacks" className="mb-16">
           <h2 className="text-3xl font-bold text-center mb-8">My Stacks</h2>
-          <div className="flex flex-wrap justify-center gap-24 md:grid md:grid-cols-5 md:gap-24">
-            {/* java */}
-            <div className="text-center">
-              <Image
-                src="https://cdn-icons-png.flaticon.com/512/226/226777.png"
-                alt="Java"
-                width={80}
-                height={80}
-                className="rounded-lg hover:underline transform hover:translate-y-1 transition-all"
-              />
-            </div>
+          <div className="flex flex-wrap justify-center gap-24 md:grid md:grid-cols-4 md:gap-24">
+          
 
             {/* python */}
             <div className="text-center">
