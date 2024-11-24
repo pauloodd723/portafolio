@@ -38,11 +38,11 @@ export default function Home() {
         </div>
       </header>
 
+
       {/* switch */}
       <section className="absolute top-8 right-10 hover:underline transform hover:translate-y-1 transition-all">
         <ThemeSwitch />
       </section>
-
 
 
 
