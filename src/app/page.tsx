@@ -14,11 +14,11 @@ export default function Home() {
               My Portfolio👋
             </h1>
             <div className="flex flex-wrap mt-4 sm:mt-0">
-              <img src="pepe.gif" alt="emoji" className="inline-block ml-2 w-10 h-10" />
-              <img src="cat.gif" alt="emoji" className="inline-block ml-2 w-10 h-10" />
-              <img src="abc.gif" alt="emoji" className="inline-block ml-2 w-12 h-12" />
-              <img src="carp.gif" alt="emoji" className="inline-block ml-2 w-12 h-12" />
-              <img src="catpp.gif" alt="emoji" className="inline-block ml-2 w-12 h-12" />
+              <img src="pepe.gif" alt="emojisapo" className="inline-block ml-2 w-10 h-10" />
+              <img src="cat.gif" alt="emojigato" className="inline-block ml-2 w-10 h-10" />
+              <img src="abc.gif" alt="emojisapo2" className="inline-block ml-2 w-12 h-12" />
+              <img src="carp.gif" alt="emojigato2" className="inline-block ml-2 w-12 h-12" />
+              <img src="catpp.gif" alt="emojigato3" className="inline-block ml-2 w-12 h-12" />
             </div>
           </div>
           <nav className="flex flex-wrap space-x-6 w-full sm:w-auto mt-4 sm:mt-0 mr-16">
@@ -66,7 +66,7 @@ export default function Home() {
           </div>
           <div className="text-center">
             <p>
-              <span className="font-bold text-xl">My name is Paulo Isaac Tibanta Delgado and I...</span> <br />
+              <h1 className="font-bold text-xl">My name is Paulo Isaac Tibanta Delgado and I...</h1> <br />
               <span className="mt-4">I am a software engineer with a passion for design and a deep fascination for all things gaming. 
                 I love combining my technical skill with creativity to develop innovative and efficient solutions. 
                 My goal is to create digital experiences that are both functional and visually appealing, 
