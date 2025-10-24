@@ -89,7 +89,7 @@ export default function Home() {
         <section className="mb-12 flex gap-8 justify-between items-start">
           <div className="max-w-[600px] dark:text-white w-full bg-white dark:bg-pale-400 p-4 rounded shadow flex items-center">
             <div className="flex-1">
-              <h3 className="text-lg font-bold mb-2">Did you know what?</h3>
+              <h2 className="text-lg font-bold mb-2">Did you know what?</h2>
               <p>
               When I was 15 years old I created my first mod and resource pack in Minecraft, a game that to this day I still love and would like to work one day in the game development company, Mojang Studios.
               </p>
