@@ -90,7 +90,7 @@ export default function Home() {
           <div className="max-w-[600px] dark:text-white w-full bg-white dark:bg-pale-400 p-4 rounded shadow flex items-center">
             <div className="flex-1">
               <h2 className="text-gray-900 bg-amber-200 dark:text-white dark:bg-amber-700">Did you know what?</h2>
-              <p>
+              <p className='text-black   dark:text-black'>
               When I was 15 years old I created my first mod and resource pack in Minecraft, a game that to this day I still love and would like to work one day in the game development company, Mojang Studios.
               </p>
             </div>
@@ -118,7 +118,7 @@ export default function Home() {
                 height={50}
                 className="rounded-[20px] mx-auto hover:underline transform hover:translate-y-1 transition-all"
               />
-              <p className="text-blue-700 dark:text-blue-300">Twitter</p>
+              <p className="text-white   dark:text-white">Twitter</p>
             </a>
             <a
               href="https://www.instagram.com/sawlife.09/profilecard/?igsh=MWh0MG5lenBjbmJzdA=="
@@ -133,7 +133,7 @@ export default function Home() {
                 height={50}
                 className="rounded-[20px] mx-auto hover:underline transform hover:translate-y-1 transition-all"
               />
-              <p className="mt-2 text-pink-500">Instagram</p>
+              <p className="text-white   dark:text-white">Instagram</p>
             </a>
             <a
               href="https://github.com/pauloodd723"
@@ -148,7 +148,7 @@ export default function Home() {
                 height={50}
                 className="rounded-[20px] mx-auto hover:underline transform hover:translate-y-1 transition-all"
               />
-              <p className="mt-2 text-black">GitHub</p>
+              <p className="text-white   dark:text-white">GitHub</p>
             </a>
             <a
               href="https://whatsapp.com"
@@ -163,7 +163,7 @@ export default function Home() {
                 height={50}
                 className="rounded-[20px] mx-auto hover:underline transform hover:translate-y-1 transition-all"
               />
-              <p className="mt-2 text-green-500">WhatsApp</p>
+              <p className="text-white   dark:text-white">WhatsApp</p>
             </a>
             <a
               href="https://www.facebook.com/share/3MYXKWNfGsqyo78p/?mibextid=LQQJ4d"
@@ -178,7 +178,7 @@ export default function Home() {
                 height={50}
                 className="rounded-[20px] mx-auto hover:underline transform hover:translate-y-1 transition-all"
               />
-              <p className="mt-2 text-blue-700">Facebook</p>
+              <p className="text-white   dark:text-white">Facebook</p>
             </a>
           </div>
         </section>
@@ -309,8 +309,8 @@ export default function Home() {
             </div>
             <h3 className="text-2xl font-bold mb-2">Basic High School</h3>
             <p className="text-black dark:text-white">
-              "Values ​​as a guide, to build our being, we find them along the way
-              and in knowledge. For them, without a doubt, in daily life we ​​need them to live happily and better."
+              "Values as a guide, to build our being, we find them along the way
+              and in knowledge. For them, without a doubt, in daily life we need them to live happily and better."
             </p>
           </div>
 
