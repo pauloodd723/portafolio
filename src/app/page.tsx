@@ -89,7 +89,7 @@ export default function Home() {
         <section className="mb-12 flex gap-8 justify-between items-start">
           <div className="max-w-[600px] dark:text-white w-full bg-white dark:bg-pale-400 p-4 rounded shadow flex items-center">
             <div className="flex-1">
-              <h2 className="text-lg font-bold mb-2">Did you know what?</h2>
+              <h2 className="text-gray-900 bg-amber-200 dark:text-white dark:bg-amber-700">Did you know what?</h2>
               <p>
               When I was 15 years old I created my first mod and resource pack in Minecraft, a game that to this day I still love and would like to work one day in the game development company, Mojang Studios.
               </p>
@@ -118,7 +118,7 @@ export default function Home() {
                 height={50}
                 className="rounded-[20px] mx-auto hover:underline transform hover:translate-y-1 transition-all"
               />
-              <p className="mt-2 text-blue-500">Twitter</p>
+              <p className="text-blue-700 dark:text-blue-300">Twitter</p>
             </a>
             <a
               href="https://www.instagram.com/sawlife.09/profilecard/?igsh=MWh0MG5lenBjbmJzdA=="
@@ -301,7 +301,7 @@ export default function Home() {
             <div className="relative w-full h-0 pb-[56.25%] mb-4 overflow-hidden rounded-lg">
               <Image
                 src="https://static.wixstatic.com/media/46bbac_c539faace5fc4d05bd462afcdbcf14c2~mv2_d_4500_3000_s_4_2.jpg/v1/fit/w_2500,h_1330,al_c/46bbac_c539faace5fc4d05bd462afcdbcf14c2~mv2_d_4500_3000_s_4_2.jpg"
-                alt="Basic High School"
+                alt=""
                 layout="fill"
                 objectFit="cover"
                 className="rounded-lg"
@@ -320,7 +320,7 @@ export default function Home() {
               <Image
               
                 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiT9IJMewsuG62FEWipujh-0bUU1JlOdetmQ&s"
-                alt="English Academy"
+                alt=""
                 layout="fill"
                 objectFit="cover"
                 className="rounded-lg"
